@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1639008000&v=beta&t=BWvsqjIVnIKpjYocWZJQz6CKeyahHC6WDPqE6_Lpo20)](https://khushboogoel01.github.io)<h1 align="center">Hi 👋, I'm Samvid Sanjay Patil</h1>
+
 <h3 align="center">A Inquisitive Software Engineering Student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samvid2020&label=Profile%20views&color=0e75b6&style=flat" alt="samvid2020" /> </p>
