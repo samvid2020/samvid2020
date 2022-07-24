@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samvid2020" alt="samvid2020" /></a> </p>
 
-- 🔭 I’m currently working on **"The KudaCam Project"**
+- 🔭 I’m currently working on **"Basic Web Project"**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Native Android Development with Java **
 
 - 👯 I’m looking to collaborate on **"The Belli Project"**
 
-- 🤝 I’m looking for help with **Artificial Intelligence**
+- 🤝 I’m looking for help with **Machine Learning**
 
-- 📫 How to reach me **samvidp2@gmail.com**
+- 📫 How to reach me **patilsamvid2023@gmail.com**
 
 - ⚡ Fun fact **Do you know any other Samvid?**
 
