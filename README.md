@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samvid2020" alt="samvid2020" /></a> </p>
 
-- 🔭 I’m currently working on **"Basic Web Project"**
+- 🔭 I’m currently working on **"Native Android  Projects"**
 
-- 🌱 I’m currently learning **Native Android Development with Java **
+- 🌱 I’m currently learning **Native Android Development with Kotlin and Jetpack Compose **
 
-- 👯 I’m looking to collaborate on **"The Belli Project"**
+- 👯 I’m looking to collaborate on **"Various Native Android Open Source Projects "**
 
-- 🤝 I’m looking for help with **Machine Learning**
+- 🤝 I’m looking for help with **Web Developement **
 
 - 📫 How to reach me **patilsamvid2023@gmail.com**
 
