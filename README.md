@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samvid Patil</h1>
-<h3 align="center">Aspiring Native Android Developer from India</h3>
+<h3 align="center">Aspiring  Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samvid2020&label=Profile%20views&color=0e75b6&style=flat" alt="samvid2020" /> </p>
 
