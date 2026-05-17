@@ -7,17 +7,16 @@
 
 <p align="left"> <a href="https://twitter.com/saminopen" target="blank"><img src="https://img.shields.io/twitter/follow/saminopen?logo=twitter&style=for-the-badge" alt="saminopen" /></a> </p>
 
-- 🔭 I’m currently working on **HactoberFest Open Source Android projects**
+- 🔭 I’m currently working on **PL-SQL Based Basic to Advance Development Projects**
 
-- 🌱 I’m currently learning **Native Android Development with Kotlin and Jetpack Compose**
+- 🌱 I’m currently learning **Advance PL-SQL / Oracle Database / Unix Shell Scripting**
 
-- 👯 I’m looking to collaborate on **Open Source Native Android Projects**
+- 👯 I’m looking to collaborate on **Data Centric Projects in Scripting and Automation**
 
-- 🤝 I’m looking for help with **Web Development**
+- 🤝 I’m looking for help with **Data Engineering Career Transformation Path**
 
 - 📫 How to reach me **patilsamvid2023@gmail.com**
 
-- ⚡ Fun fact **Do you know any other samvid?**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -25,10 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/samvid2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/samvid2020" height="30" width="40" /></a>
-<a href="https://twitter.com/saminopen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saminopen" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/samvid-patil-8b70101b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samvid-patil-8b70101b9/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17842115/samvid-sanjay-patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17842115/samvid-sanjay-patil" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
